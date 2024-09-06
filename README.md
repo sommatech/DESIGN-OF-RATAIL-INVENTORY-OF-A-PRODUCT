@@ -1,5 +1,5 @@
 ** 
-********#RATAIL-INVENTORY-Management-DB-Design**`
+********#RATAIL-INVENTORY-MANAGEMENT-DB-DESIGN**`
   
   The primary objective of this design is to create a structured and relational data model that efficiently manages the stock inventory information (stock in and stock out). The products are grouped into different categories, prices, and the supplier that handles each product more like distribution. This database supports various business operations, including employee management, departmental analysis, and project oversight while enabling robust data retrieval and reporting functionalities. The design ensures data integrity, reduces redundancy, and allows for seamless data aggregation and analysis, which is essential for informed decision-making within a retail company.
 
